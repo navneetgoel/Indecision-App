@@ -1,0 +1,19 @@
+{
+  "name": "indecision-app",
+  "version": "1.0.0",
+  "description": "This app help you take decision",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/navneetgoel/Indecision-App.git"
+  },
+  "author": "Navneet Goel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/navneetgoel/Indecision-App/issues"
+  },
+  "homepage": "https://github.com/navneetgoel/Indecision-App#readme"
+}
